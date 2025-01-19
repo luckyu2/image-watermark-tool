@@ -285,7 +285,7 @@ const repeatStatusChange = (e) => {
             <h1 class="text-[22px] font-bold my-[20px] flex gap-1 flex-row items-center ">
               {{ $t('websiteName') }}
               <nuxt-link class="text-[12px] text-red-500"
-                         href="https://github.com/unilei/image-watermark-tool.git" target="_blank">
+                         href="https://github.com/luckyu2/image-watermark-tool" target="_blank">
 <!--                <Icon name="uil:github" color="black" size="24"/>-->
                 <img style="width: 24px;height: 24px;" src="@/assets/icon/mdi--github.svg" alt="github">
               </nuxt-link>
